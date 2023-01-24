@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bar
+comment0.text=\r\n\ Erg\u00E4nzen\ Sie\ hier\ eine\ Beschreibung\ f\u00FCr\ die\ Klasse\ GameOver.\r\n\ \r\n\ @author\ Jan\ Allewelt\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Bar()
+comment2.params=amount
+comment2.target=void\ bumpCount(int)
+comment3.params=
+comment3.target=int\ getCounter()
+comment4.params=
+comment4.target=void\ updateImage()
+numComments=5

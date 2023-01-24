@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Pipe
+comment0.text=\r\n\ Erg\u00E4nzen\ Sie\ hier\ eine\ Beschreibung\ f\u00FCr\ die\ Klasse\ GameOver.\r\n\ \r\n\ @author\ Jan\ Allewelt\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Pipe()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
